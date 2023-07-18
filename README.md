@@ -1,1 +1,5 @@
-# dio_desafio_html
+# DIO | Formação HTML Web Developer
+
+Primeiro desafio HTML do curso de Formação HTML Web Developer 
+
+## 📚
